@@ -1,0 +1,30 @@
+{
+  "name": "test_blog",
+  "private": true,
+  "dependencies": {
+    "@babel/plugin-proposal-decorators": "^7.7.4",
+    "@babel/preset-react": "^7.7.4",
+    "@rails/actioncable": "^6.0.0",
+    "@rails/activestorage": "^6.0.0",
+    "@rails/ujs": "^6.0.0",
+    "@rails/webpacker": "^4.2.2",
+    "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
+    "classnames": "^2.2.6",
+    "mobx": "^5.15.1",
+    "mobx-react": "^6.1.4",
+    "ramda": "^0.26.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-select": "^3.0.8",
+    "react_ujs": "^2.6.0",
+    "semantic-ui-react": "^0.88.2",
+    "turbolinks": "^5.2.0"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.8.0",
+    "eslint-plugin-react": "^7.17.0",
+    "webpack-dev-server": "^3.9.0"
+  }
+}
